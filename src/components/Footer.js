@@ -17,11 +17,11 @@ const Footer = () => (
     </Typography>
     <Stack direction="row" spacing="20px" sx={{ justifyContent: 'center', mt: '20px' }}>
       <Link href="https://www.instagram.com/xaesthetic.ram/" target="_blank" rel="noopener">
-        {/* Replace the image source with Font Awesome icons */}
+        
         <FontAwesomeIcon icon={faInstagram} style={{color:"#e40c0c", width: '24px', height: '24px' }} />
       </Link>
-      <Link href="https://www.linkedin.com/in/ramganga-kumar-25a6b4203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener">
-        {/* Replace the image source with Font Awesome icons */}
+      <Link href="https://www.linkedin.com/in/ramganga-kumar-a01752321/" target="_blank" rel="noopener">
+        
         <FontAwesomeIcon icon={faLinkedin} style={{width: '24px', height: '24px' }} />
       </Link>
     </Stack>
