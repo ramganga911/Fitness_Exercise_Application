@@ -1,5 +1,3 @@
-Gym_Excercise_Application https://xaesthetic-ram.netlify.app/
-
 # Fitness Exercise Application
 
 [Visit the Application](https://xaesthetic-ram.netlify.app/)
